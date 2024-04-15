@@ -596,7 +596,7 @@ button:hover {
     background-color: #081130;
     width: 100%;
     text-align: left;
-    background-image: url("/images/phone 1.png");
+    background-image: url("../images/phone 1.png");
     background-repeat: no-repeat;
     background-size: 50%;
     background-position: left bottom;
