@@ -3,42 +3,42 @@ let products = [
         id: 1,
         name: "Весняний бум",
         category: "Pastry",
-        image: "/images/catalog_img (1).png",
+        image: "../images/catalog_img (1).png",
         price: 100
     },
     {
         id: 2,
         name: "Лісова казка",
         category: "Pastry",
-        image: "/images/catalog_img (2).png",
+        image: "../images/catalog_img (2).png",
         price: 50
     },
     {
         id: 3,
         name: "Поцілунок",
         category: "Pastry",
-        image: "/images/catalog_img (3).png",
+        image: "../images/catalog_img (3).png",
         price: 75
     },
     {
         id: 4,
         name: "Наполеон",
         category: "Cake",
-        image: "/images/img-cake1.jpg",
+        image: "../images/img-cake1.jpg",
         price: 150
     },
     {
         id: 5,
         name: "Спартак",
         category: "Cake",
-        image: "/images/img-cake2.jpg",
+        image: "../images/img-cake2.jpg",
         price: 100
     },
     {
         id: 6,
         name: "Червоний бархат",
         category: "Cake",
-        image: "/images/img-cake3.jpg",
+        image: "../images/img-cake3.jpg",
         price: 200
     }
 ];
